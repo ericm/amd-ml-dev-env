@@ -4,5 +4,8 @@ This is a machine learning developer environment template for using a tensorflow
 
 If you wish to use this template, simply click the 'Use this template' button.
 
+## Prerequisites
+You must have Docker, docker-compose and (optionally) VSCode.
+
 ## Running
 To run, just open it using [Remote - Containers](https://code.visualstudio.com/docs/remote/containers) in VSCode or just run `./run.sh`
