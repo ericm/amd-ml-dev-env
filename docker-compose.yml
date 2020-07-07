@@ -3,6 +3,7 @@ services:
   ml:
     container_name: 'ml'
     build: .
+    image: ml:latest
     devices:
       - /dev/kfd
       - /dev/dri
