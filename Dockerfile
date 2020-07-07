@@ -1,3 +1,3 @@
-FROM rocm/tensorflow-autobuilds:rocm3.3-csb-latest
+FROM rocm/tensorflow:latest
 
-RUN pip3 install tensorflow-rocm
+RUN pip3 install autopep8 

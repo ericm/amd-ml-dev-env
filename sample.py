@@ -1,1 +1,3 @@
-import tensorflow
+import tensorflow as tf
+
+print(tf.version)

@@ -1,4 +1,4 @@
 #!/bin/sh
 docker-compose up -d
-docker exec -it ml /bin/bash
+./exec.sh
 docker-compose down
